@@ -1,0 +1,76 @@
+# Volodymyr Bekariev
+
+**Software Engineer**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/bekarev/) | [GitHub](https://github.com/only1design) </br>
+📍 Kraków, Poland </br>
+⏰ GMT+1 </br>
+✉️ [volodymyr.bekariev@gmail.com](mailto:volodymyr.bekariev@gmail.com) </br>
+📞 +48 575 014 491 </br>
+
+---
+
+## 📌 About Me
+
+Software Engineer with 4+ years of commercial experience, working in teams ranging from 2 to 10 members.
+
+- Advanced experience with React and modern frontend ecosystem.
+- Strong background in frontend security, including XSS, CSRF, and CSP vulnerabilities identified during security audits.
+- Expertise in frontend performance optimization for data-intensive applications.
+- Solid experience building enterprise-grade frontend solutions with complex business logic.
+- Delivered 10+ projects across e-commerce, SaaS, and CRM domains.
+- Hands-on experience developing mobile applications with React Native.
+
+---
+
+## 🛠️ Skills
+
+**Software Engineering:**
+- **Languages & Frameworks:** React, TypeScript, Next.js, React Native, Java, SQL, Node.js
+- **Tools & Technologies:** Redux/Redux Toolkit, Redux-Saga, Tailwind, Jest, Cypress, Docker, CI/CD (GitHub Actions), Highcharts.js, PostgreSQL
+- **Testing & Methodologies:** REST APIs, Unit/End-to-End testing, SOLID, OOP
+
+**Other:**
+- Spring, Hibernate, Linux, Bash, Figma, Photoshop, Jira. 
+- Polish, English, Ukrainian, Russian languages.
+
+---
+
+## 💼 Experience
+
+### **Syberry** *(05/2022 - Present, 3.7+ years)*
+- **Optimized chart data processing (380% faster initial render)** and implemented multi-chart functionality supporting up to five concurrent charts with live data updating.
+- Prepared the application for [NetSPI web application pentesting](https://www.netspi.com/netspi-ptaas/application-penetration-testing/web-application/), **fixing frontend vulnerabilities** (XSS, CSRF, clickjacking) and designing a **CSP implementation strategy**.
+- Implemented **parallel and resumable large-file exports** using **long polling** and **Redux-Saga**.
+- Developed a music-focused **social networking application** from scratch using **React Native**, with **Spotify API integration**.
+- Covered core system modules with **Cypress end-to-end tests**, significantly **reducing manual smoke testing** efforts for QA engineers.
+
+**Technologies:** React, Type Script, Next.js, React Native, PWA, REST API, CI/CD
+
+**Case Studies:** 
+- 🔗 [Ethical compliance system](https://www.syberry.com/case-studies/supporting-an-ethical-compliance-system-throughout-its-acquisition/)
+- 🔗 [Software for managing decentralized water systems](https://www.syberry.com/case-studies/decentralized-water-systems-empowered-by-software/)
+- 🔗 [Repository for medical test results](https://www.syberry.com/case-studies/system-for-tracking-and-storing-testing-results/)
+- 🔗 [ERP system for a plumbing business](https://www.syberry.com/case-studies/erp-system-for-a-plumbing-business/)
+
+---
+
+### **Freelance Wordpress Developer** *(09/2020 - 04/2021, 0.6 year)*
+
+- Implemented custom WordPress theme using WooCommerce plugin.
+- Optimized website performance, page load times, and SEO for production e-commerce website.
+- Worked directly with clients, gathering requirements and delivering end-to-end solutions.
+- Collaboration with a web designer.
+
+**Technologies:** PHP, Java Script, jQuery, Wordpress, WooCommerce
+
+---
+
+## 🎓 Education
+
+### **Zespół Szkół Zawodowych Nr 2 w Białej Podlaskiej** *(2018 - 2022)*
+- **Technical and Vocational Secondary School — Information Technology**
+
+---
+
+📫 Feel free to reach out! Looking forward to connecting! 🚀
