@@ -1,6 +1,6 @@
 # Volodymyr Bekariev
 
-**Software Engineer**
+**Frontend Software Engineer**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/bekarev/) | [GitHub](https://github.com/only1design) </br>
 📍 Kraków, Poland </br>
@@ -12,27 +12,15 @@
 
 ## 📌 About Me
 
-Software Engineer with 4+ years of commercial experience, working in teams ranging from 2 to 10 members.
+Frontend Software Engineer with 4+ years of experience building scalable, high-performance web/mobile enterprise-grade applications using JavaScript/TypeScript, React/React Native, and Next.js.
 
-- Advanced experience with React and modern frontend ecosystem.
-- Strong background in frontend security, including XSS, CSRF, and CSP vulnerabilities identified during security audits.
-- Expertise in frontend performance optimization for data-intensive applications.
 - Solid experience building enterprise-grade frontend solutions with complex business logic.
 - Delivered 10+ projects across e-commerce, SaaS, and CRM domains.
+- Strong background in frontend security.
+- Expertise in frontend performance optimization for data-intensive applications.
+- T-shaped engineer with strong system-level understanding of networking and backend systems, and hands-on knowledge of Java, SQL, and cross-functional collaboration.
+- Advanced experience with React and modern frontend ecosystem.
 - Hands-on experience developing mobile applications with React Native.
-
----
-
-## 🛠️ Skills
-
-**Software Engineering:**
-- **Languages & Frameworks:** React, TypeScript, Next.js, React Native, Java, SQL, Node.js
-- **Tools & Technologies:** Redux/Redux Toolkit, Redux-Saga, Tailwind, Jest, Cypress, Docker, CI/CD (GitHub Actions), Highcharts.js, PostgreSQL
-- **Testing & Methodologies:** REST APIs, Unit/End-to-End testing, SOLID, OOP
-
-**Other:**
-- Spring, Hibernate, Linux, Bash, Figma, Photoshop, Jira. 
-- Polish, English, Ukrainian, Russian languages.
 
 ---
 
@@ -43,11 +31,11 @@ Software Engineer with 4+ years of commercial experience, working in teams rangi
 - Prepared the application for [NetSPI web application pentesting](https://www.netspi.com/netspi-ptaas/application-penetration-testing/web-application/), **fixing frontend vulnerabilities** (XSS, CSRF, clickjacking) and designing a **CSP implementation strategy**.
 - Implemented **parallel and resumable large-file exports** using **long polling** and **Redux-Saga**.
 - Developed a music-focused **social networking application** from scratch using **React Native**, with **Spotify API integration**.
-- Covered core system modules with **Cypress end-to-end tests**, significantly **reducing manual smoke testing** efforts for QA engineers.
+- Covered core system modules with **Cypress end-to-end tests** and integrated them into CI pipelines using GitHub Actions, significantly reducing manual smoke testing efforts for QA engineers.
 
 **Technologies:** React, Type Script, Next.js, React Native, PWA, REST API, CI/CD
 
-**Case Studies:** 
+**Case Studies:**
 - 🔗 [Ethical compliance system](https://www.syberry.com/case-studies/supporting-an-ethical-compliance-system-throughout-its-acquisition/)
 - 🔗 [Software for managing decentralized water systems](https://www.syberry.com/case-studies/decentralized-water-systems-empowered-by-software/)
 - 🔗 [Repository for medical test results](https://www.syberry.com/case-studies/system-for-tracking-and-storing-testing-results/)
@@ -58,13 +46,30 @@ Software Engineer with 4+ years of commercial experience, working in teams rangi
 ### **Freelance Wordpress Developer** *(09/2020 - 04/2021, 0.6 year)*
 
 - Implemented custom WordPress theme using WooCommerce plugin.
-- Optimized website performance, page load times, and SEO for production e-commerce website.
-- Worked directly with clients, gathering requirements and delivering end-to-end solutions.
+- Configured DNS and HTTPS (TLS) for the website.
+- Optimized website performance, page load time, and SEO for production e-commerce website.
+- Worked directly with client, gathering requirements and delivering end-to-end solutions.
 - Collaboration with a web designer.
 
 **Technologies:** PHP, Java Script, jQuery, Wordpress, WooCommerce
 
 ---
+
+## 🛠️ Skills
+
+**Primary:**
+- **Languages & Frameworks:** JavaScript/TypeScript, React/React Native, Next.js, Java, SQL, Node.js
+- **Tools & Technologies:** Redux/Redux Toolkit, Redux-Saga, Tailwind, Jest, Refine, Cypress, Docker, CI/CD (GitHub Actions), Highcharts.js, Spring, Hibernate, PostgreSQL
+- **Testing & Methodologies:** REST APIs, Unit/End-to-End testing, Agile, SOLID, OOP
+
+**Secondary:**
+- Vue, Bash, Linux, Figma, Photoshop, Jira.
+
+**Languages:**
+- Polish, English, Ukrainian, Russian.
+
+---
+
 
 ## 🎓 Education
 
